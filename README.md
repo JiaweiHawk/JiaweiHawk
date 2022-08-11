@@ -54,5 +54,6 @@
 
 ## Linux Kernel Patch  
 - **38c9c22a85ae("ntfs: fix use-after-free in ntfs_ucsncmp()")**  
-
+- **2a0133723f9e("net: fix refcount bug in sk_psock_get (2)")**
+- **cf8c1e967224("net: refactor bpf_sk_reuseport_detach()")**
 <br />
