@@ -53,11 +53,11 @@
 <br/>  
 
 ## Linux Kernel Patch  
-- [**38c9c22a85ae("ntfs: fix use-after-free in ntfs_ucsncmp()")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=38c9c22a85aeed28d0831f230136e9cf6fa2ed44)
+
 - [**2a0133723f9e("net: fix refcount bug in sk_psock_get (2)")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2a0133723f9ebeb751cfce19f74ec07e108bef1f)
 - [**cf8c1e967224("net: refactor bpf_sk_reuseport_detach()")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8c1e967224c931119d3447f2213d1f645a1a2a)
-- [**71ea0ec834f2("ntfs: fix use-after-free in ntfs_attr_find()")**](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/commit/?id=71ea0ec834f203f8b6c8cc431827e04e7bf87f0e)
-- [**2c6cd9e1292b("ntfs: fix out-of-bounds read in ntfs_attr_find()")**](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/commit/?id=2c6cd9e1292b944d421b423a8f3e8c3e9b8470df)
-- [**d1f130c2525e("ntfs: check overflow when iterating ATTR_RECORDs")**](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/commit/?id=d1f130c2525e7f1e05c5f147fd950989b6db426d)
+- [**d85a1bec8e8d("ntfs: fix use-after-free in ntfs_attr_find()")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d85a1bec8e8d552ab13163ca1874dcd82f3d1550)
+- [**36a4d82dddbb("ntfs: fix out-of-bounds read in ntfs_attr_find()")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=36a4d82dddbbd421d2b8e79e1cab68c8126d5075)
+- [**63095f4f3af5("ntfs: check overflow when iterating ATTR_RECORDs")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=63095f4f3af59322bea984a6ae44337439348fe0)
 - [**...**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=hawkins+jiawei)
 <br />
