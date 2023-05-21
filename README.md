@@ -50,3 +50,9 @@
 - [**63095f4f3af5("ntfs: check overflow when iterating ATTR_RECORDs")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=63095f4f3af59322bea984a6ae44337439348fe0)
 - [**...**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=hawkins+jiawei)
 <br />
+
+## Qemu
+
+- [**5d410557de("vhost: fix possible wrap in SVQ descriptor ring")**](https://gitlab.com/qemu-project/qemu/-/commit/5d410557dea452f6231a7c66155e29a37e168528)
+- [**...**](https://gitlab.com/qemu-project/qemu/-/commits/master?search=Hawkins+Jiawei)
+<br />
