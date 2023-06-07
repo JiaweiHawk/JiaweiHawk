@@ -44,11 +44,7 @@
 ## Linux Kernel Patch  
 
 - [**2a0133723f9e("net: fix refcount bug in sk_psock_get (2)")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=2a0133723f9ebeb751cfce19f74ec07e108bef1f)
-- [**cf8c1e967224("net: refactor bpf_sk_reuseport_detach()")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8c1e967224c931119d3447f2213d1f645a1a2a)
-- [**d85a1bec8e8d("ntfs: fix use-after-free in ntfs_attr_find()")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d85a1bec8e8d552ab13163ca1874dcd82f3d1550)
-- [**36a4d82dddbb("ntfs: fix out-of-bounds read in ntfs_attr_find()")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=36a4d82dddbbd421d2b8e79e1cab68c8126d5075)
-- [**63095f4f3af5("ntfs: check overflow when iterating ATTR_RECORDs")**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=63095f4f3af59322bea984a6ae44337439348fe0)
-- [**...**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=hawkins+jiawei)
+- [**...**](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Hawkins+Jiawei)
 <br />
 
 ## Qemu Patch
