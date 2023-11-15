@@ -52,3 +52,7 @@
 - [**5d410557de("vhost: fix possible wrap in SVQ descriptor ring")**](https://gitlab.com/qemu-project/qemu/-/commit/5d410557dea452f6231a7c66155e29a37e168528)
 - [**...**](https://gitlab.com/qemu-project/qemu/-/commits/master?search=Hawkins+Jiawei)
 <br />
+
+## Flang patch
+
+- [**Add align pragma for derived type and fix shape array/character type**](https://github.com/flang-compiler/flang/pull/1360)
