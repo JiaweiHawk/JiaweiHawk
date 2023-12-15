@@ -55,4 +55,4 @@
 
 ## Flang patch
 
-- [**Add align pragma for derived type and fix shape array/character type**](https://github.com/flang-compiler/flang/pull/1360)
+- [**Add align pragma for derived type and fix shape array/character type**](https://github.com/flang-compiler/flang/commit/7f17301a9715e229fc19242802e1bff953967d3e)
