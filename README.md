@@ -56,3 +56,7 @@
 ## Flang patch
 
 - [**Add align pragma for derived type and fix shape array/character type**](https://github.com/flang-compiler/flang/commit/7f17301a9715e229fc19242802e1bff953967d3e)
+<br />
+
+## MORI patch
+- [**perf(ep/asyncll): fuse put-signal and drop drains**](https://github.com/ROCm/mori/commit/6bedb1126e3de603e8df07dff4fbb7232041f64f)
